@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="swipe1" type="id">swipex</item>
+    <item name="swipe2" type="id">swipey</item>
+</resources>
